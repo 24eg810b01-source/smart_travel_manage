@@ -1,0 +1,6 @@
+#!/bin/sh
+# ----------------------------------------------------------------------------
+# Maven Wrapper script for UNIX
+# ----------------------------------------------------------------------------
+echo "Starting Maven Wrapper for Smart Travel Management Backend..."
+mvn "$@"

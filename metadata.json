@@ -1,0 +1,6 @@
+{
+  "name": "Smart Travel Management System",
+  "description": "Comprehensive travel planning and management platform featuring interactive dashboards, trip calendar, real-time booking updates, expense tracking, and collaborative itineraries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
